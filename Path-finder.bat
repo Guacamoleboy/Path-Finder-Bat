@@ -17,7 +17,7 @@ ECHO.
 ECHO ---------------------------
 
 ECHO. 
-ECHO Setting Path To The Dragged File Path: %1
+ECHO Setting Path To The Dragged File: %1
 cd /d "%~dp1"
 ECHO.
 cmd /k
